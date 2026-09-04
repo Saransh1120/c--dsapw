@@ -1,7 +1,0 @@
-# compiled binaries
-*.exe
-*.out
-*.o
-
-# editor
-.vscode/

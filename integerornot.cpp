@@ -10,3 +10,6 @@ int main (){
      else cout<<"no";
 
 }
+
+
+// float mai real number hote haii
