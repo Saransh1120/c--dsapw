@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){ 
     
+
     int costp, sellingp;
 
     cout << "Enter the cost price: ";
