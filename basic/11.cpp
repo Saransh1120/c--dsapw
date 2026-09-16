@@ -1,16 +1,22 @@
 #include<iostream>
+//Q18: Take mass m and velocity v and calculate Kinetic Energy.
+//Formula: KE = ½ × m × v²
 using namespace std;
 int main (){ 
-int n ;
 
- cout<<" enter th enumber";
+     int m , v;
+     cout<<"ente rthe number ";
+     cin>>m>>v;
+     
+     int Ke;
 
-  cin>>n;
+     int ke= 0.5*m*v*v;
+
+     cout<<ke;
+
+   }
+     
 
 
-  int x = 4*(n) +9;
-  cout<<x;
 
 
-
-}
