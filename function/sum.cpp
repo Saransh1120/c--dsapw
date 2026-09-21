@@ -7,7 +7,6 @@ void sumofthree(int a ,int b ,int c ){
  cout<<sum;
 }
 
-
 int main (){
 
 sumofthree(10,20,30);
